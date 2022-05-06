@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beliveanik007
 - 👀 I’m interested in Web Development, AI, Blockchain.
 - 🌱 I’m currently learning JAVA and Python.
-- 💞️ I’m Want to develope an Programming-LS for newbie.
+- 💞️ I want to develope an Programming-LS for newbie.
 - 📫 How to reach me? Mahadi <connectwithmahadi@protonmail.com>
 
 <!---
